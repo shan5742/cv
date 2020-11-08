@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Contact() {
   return (
-    <div className="flex justify-between w-full mt-8 flex-wrap">
+    <div className="flex flex-col lg:flex-row xl:flex-row justify-between w-full mt-8">
       <Link href="mailto:asamshan456@gmail.com">
         <a className="font-bold text-blue-100 text-s hover:underline mx-2">
           asamshan456@gmail.com
