@@ -1,3 +1,3 @@
 # CV
 
-Online version of CV.
+Up to date version of CV for the browser
